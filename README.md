@@ -45,3 +45,4 @@ https://zh.nuxtjs.org/api/configuration-css
 # Nuxt 默认模板布局，个性meta设置
 
 # 异步数据获取
+
